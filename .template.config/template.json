@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Developing Woot",
+    "classifications": [ "Web", "WebApi" ],
+    "identity": "VerticalSlice.Template",
+    "sourceName": "VerticalSlice.Template",
+    "name": "Vertical Slice Template",
+    "description": "Template for a Vertical Slice Architecture microservice.",
+    "shortName": "vsa"
+}

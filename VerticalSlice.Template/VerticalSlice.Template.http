@@ -1,0 +1,21 @@
+@hostAddress = http://localhost:5217
+
+POST {{hostAddress}}/v1/item
+Accept: application/json
+Content-Type: application/json
+
+{
+    "itemName": ""
+}
+
+###
+
+POST {{hostAddress}}/v1/item
+Accept: application/json
+Content-Type: application/json
+
+{
+    "itemName": "testName"
+}
+
+###
